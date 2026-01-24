@@ -1,4 +1,4 @@
-# 🛡️ Keisha | Vulnerability Analyst
+# 🛡️ Keisha  | Vulnerability Analyst
 
 I specialize in **End-to-End Vulnerability Management** and **Cloud Security Operations**. I manage security lifecycles within enterprise-scale production environments in **Microsoft Azure**.
 
