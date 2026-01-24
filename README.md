@@ -6,7 +6,7 @@ I specialize in **End-to-End Vulnerability Management** and **Cloud Security Ope
 
 ### 🛠️ Technical Stack
 * **Cloud & Identity:** Microsoft Azure, Entra ID
-* **Vulnerability Management:** Tenable Nessus, DISA STIGs, & Remediation
+* **Vulnerability Management:** Tenable Nessus, DISA STIGs, & & Full-Lifecycle Remediation
 * **Operations:** Microsoft Sentinel (SIEM), Defender for Endpoint (EDR), & KQL
 * **Automation:** Python (Security Tooling) & Agentic AI (OpenAI API)
 
