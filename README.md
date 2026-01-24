@@ -16,9 +16,9 @@ I specialize in **End-to-End Vulnerability Management** and **Cloud Security Ope
 *A collection of core frameworks and methodologies I utilize for strategy and operations.*
 
 * **First Principles:** *Cybersecurity First Principles* (Howard)
-* **Risk Management:** *Practical Vulnerability Management* (Grembi)
-* **Telemetry Analysis:** *The Definitive Guide to KQL* (Hopkins)
-* **Security Engineering:** *Security Automation with Python* (Chantzis)
+* **Risk Management:** *Practical Vulnerability Management* (Magnusson)
+* **Telemetry Analysis:** *The Definitive Guide to KQL* (Morowczynski)
+* **Security Engineering:** *Security Automation with Python* (Charles Sr.)
 
 ---
 
