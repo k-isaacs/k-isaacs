@@ -22,4 +22,4 @@ I specialize in **End-to-End Vulnerability Management** and **Cloud Security Ope
 
 ---
 
-📫 **Connect with me:** [LinkedIn URL]
+📫 **Connect with me:**
