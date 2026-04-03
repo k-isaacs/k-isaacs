@@ -12,14 +12,4 @@ I specialize in **End-to-End Vulnerability Management** and **Cloud Security Ope
 
 ---
 
-### 📚 Technical Reference Library
-*A collection of core frameworks and methodologies I utilize for strategy and operations.*
-
-* **First Principles:** *Cybersecurity First Principles* (Howard)
-* **Risk Management:** *Practical Vulnerability Management* (Magnusson)
-* **Telemetry Analysis:** *The Definitive Guide to KQL* (Morowczynski)
-* **Security Engineering:** *Security Automation with Python* (Charles)
-
----
-
 📫 **Connect with me:**
