@@ -6,12 +6,12 @@ I work hands-on in vulnerability management across Azure environments, from iden
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[End-to-End Vulnerability Remediation in Azure](https://github.com/k-isaacs/End-to-End-Vulnerability-Remediation-in-Azure-Production-Environment)**  
+- **[End-to-End Vulnerability Remediation in Azure](https://github.com/k-isaacs/End-to-End-Vulnerability-Remediation-in-Azure-Production-Environment)**
   Built and completed full-lifecycle vulnerability remediation on a live Azure VM, covering governance, policy sign-off, credentialed Tenable scanning, PowerShell remediation, validation, and CAB approval. Reduced total vulnerabilities by **83%** and eliminated all **Critical** and **High** findings.
 
-- **[Windows 11 STIG Hardening | DISA v2r5](https://github.com/k-isaacs/Windows11-STIG-Remediations)**  
+- **[Windows 11 STIG Hardening | DISA v2r6](https://github.com/k-isaacs/Windows11-STIG-Remediations)**
   Remediated 10 Windows 11 STIG controls on an Azure VM using PowerShell and registry-level changes. Each control includes the fix, implementation details, and before-and-after Tenable scan evidence.
-
+  
 ---
 
 ## 🛠️ Technical Stack
