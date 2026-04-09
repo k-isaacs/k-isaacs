@@ -11,7 +11,15 @@ I work hands-on in vulnerability management across Azure environments, from iden
 
 - **[Windows 11 STIG Hardening | DISA v2r6](https://github.com/k-isaacs/Windows11-STIG-Remediations)**
   Remediated 10 Windows 11 STIG controls on an Azure VM using PowerShell and registry-level changes. Each control includes the fix, implementation details, and before-and-after Tenable scan evidence.
-  
+
+---
+
+## 🔍 Threat Hunting Projects
+
+- **[TOR Usage Threat Hunt | Microsoft Defender & KQL](YOUR-THREAT-HUNT-REPO-URL)**
+  Conducted a threat hunt in Microsoft Defender for Endpoint using KQL to detect unauthorized TOR browser installation and usage across an Azure environment. Hunted across DeviceFileEvents, DeviceProcessEvents, and DeviceNetworkEvents to surface IoCs including TOR process execution, silent installation, and network connections over known TOR ports.
+  - 📄 Threat Hunt Report *(coming soon)*
+    
 ---
 
 ## 🛠️ Technical Stack
