@@ -1,6 +1,6 @@
 # 🛡️ Keisha Isaacs | Vulnerability Management Analyst | Azure Security
 
-I work hands-on in vulnerability management and system hardening across Azure environments, with a focus on identifying findings, remediating them, validating fixes, and documenting results clearly. My work uses Tenable, PowerShell, DISA STIGs, Microsoft Defender for Endpoint, and KQL to reduce risk and improve system security. I completed full-lifecycle remediation on a live Azure VM, reducing total vulnerabilities by **83%** and eliminating all **Critical** and **High** findings. I also build and validate script-based hardening work with scan-backed evidence.
+I work hands-on in vulnerability management and system hardening across Azure environments, with a focus on identifying findings, remediating them, validating fixes, and documenting results clearly. My work uses Tenable, PowerShell, DISA STIGs, Microsoft Defender for Endpoint, and KQL to reduce risk and improve system security. I completed full-lifecycle remediation on a live Azure VM, reducing total vulnerabilities by 83% and eliminating all Critical and High findings. I also build script-based hardening with scan-backed evidence, and most recently developed a Python-based agent that ranks vulnerability findings based on organizational context.
 
 ---
 
@@ -23,8 +23,8 @@ I work hands-on in vulnerability management and system hardening across Azure en
 
 ## 🤖 Agentic Vulnerability Management Projects
 
-- **AI-Driven Vulnerability Management Agent | Python** *(Coming Soon)*  
-  Building a Python-based agent to support vulnerability management workflows, with a focus on practical Azure and security operations use cases such as vulnerability triage, prioritization, and remediation support.
+- **[VM Risk Agent | Python + Anthropic API](https://github.com/k-isaacs/VM-Risk-Agent)**  
+  Built a Python-based vulnerability management agent that takes a Tenable scan and an analyst interview, then ranks findings by what the organization needs to fix first. The rubric weighs CVSS against data sensitivity, asset criticality, defense maturity, and regulatory pressure, producing different priority lists for different organizational profiles. Validated against four scenarios (hospital, SaaS startup, clinic, mom-and-pop tax/bookeeping shop) using the same scan.
 
 ---
 
@@ -33,7 +33,7 @@ I work hands-on in vulnerability management and system hardening across Azure en
 - **Cloud & Identity:** Microsoft Azure, Azure Virtual Machines, Entra ID  
 - **Vulnerability Management:** Tenable Nessus, DISA STIGs, Remediation Validation  
 - **Security Tooling:** Microsoft Defender for Endpoint, Microsoft Sentinel, KQL  
-- **Automation:** PowerShell, Python  
+- **Automation:** PowerShell, Python, Anthropic API 
 
 ---
 
