@@ -44,7 +44,9 @@
 
 ---
 
-## 📫 Connect
+<h2 align="center">📫 Connect</h2>
 
-- **Email:** keishaimail@gmail.com
-- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE) <!-- update this -->
+<p align="center">
+  <strong>Email:</strong> keishaimail@gmail.com<br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/YOUR-HANDLE">linkedin.com/in/YOUR-HANDLE</a>
+</p>
