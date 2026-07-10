@@ -48,5 +48,5 @@
 
 <p align="center">
   <strong>Email:</strong> keishaimail@gmail.com<br>
-  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/YOUR-HANDLE">linkedin.com/in/kisaacsvm</a>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/keisha-isaacs">linkedin.com/in/keisha-isaacs</a>
 </p>
