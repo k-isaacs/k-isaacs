@@ -47,6 +47,6 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <strong>Email:</strong> keishaimail@gmail.com<br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/keisha-isaacs">linkedin.com/in/keisha-isaacs</a>
+  keishaimail@gmail.com<br>
+  <a href="https://www.linkedin.com/in/keisha-isaacs"><strong>LinkedIn</strong></a>
 </p>
