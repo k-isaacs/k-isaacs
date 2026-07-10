@@ -1,42 +1,50 @@
-# 🛡️ Keisha Isaacs | Vulnerability Management Analyst | Azure Security
+<h1 align="center">Hi, I'm Keisha 👋</h1>
 
-I work hands-on in vulnerability management and system hardening across Azure environments, with a focus on identifying findings, remediating them, validating fixes, and documenting results clearly. My work uses Tenable, PowerShell, DISA STIGs, Microsoft Defender for Endpoint, and KQL to reduce risk and improve system security. I completed full-lifecycle remediation on a live Azure VM, reducing total vulnerabilities by 83% and eliminating all Critical and High findings. I also build script-based hardening with scan-backed evidence, and most recently developed a Python-based agent that ranks vulnerability findings based on organizational context.
+<p align="center">
+  <strong>Vulnerability Management Analyst | Azure Security</strong><br>
+  I find, prioritize, remediate, and validate vulnerabilities. My portfolio mirrors enterprise VM workflows end to end: Tenable scanning, risk-based prioritization, PowerShell remediation, change-management documentation, and rescan validation.
+</p>
+
+<p align="center">
+  🎓 <strong>Certifications:</strong> CompTIA Security+ · ISC2 Certified in Cybersecurity (CC)
+</p>
+
+---
+
+## 🛠️ Core Skills & Tools
+
+| Area | Tools & Methods |
+|---|---|
+| Vulnerability Management | Tenable/Nessus · risk-based prioritization · remediation validation · vulnerability lifecycle |
+| Hardening & Compliance | DISA STIGs · registry-level remediation · revert-to-fail testing |
+| Scripting & Automation | PowerShell · Python |
+| Cloud Security | Microsoft Azure VMs · NSG configuration · attack surface reduction |
+| Detection Support | Microsoft Defender for Endpoint · KQL |
+| Process | Change management · remediation documentation · scan-fix-rescan workflows |
 
 ---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[End-to-End Vulnerability Remediation in Azure](https://github.com/k-isaacs/End-to-End-Vulnerability-Remediation-in-Azure-Production-Environment)**  
-  Completed full-lifecycle vulnerability remediation on a live Azure VM, including governance, policy sign-off, credentialed Tenable scanning, PowerShell remediation, validation, and CAB approval. Reduced total vulnerabilities by **83%** and eliminated all **Critical** and **High** findings.
+- **[End-to-End Vulnerability Remediation in Azure](https://github.com/k-isaacs/End-to-End-Vulnerability-Remediation-in-Azure)**  
+  Full-lifecycle vulnerability remediation on a live, internet-exposed Azure VM lab using Tenable, PowerShell, and documented change-management workflows. Moved the environment through discovery, prioritization, remediation, validation, and lifecycle maintenance — reducing findings from **25 to 4**, eliminating **100% of Critical and High** findings (**83% total reduction**).
 
 - **[Windows 11 STIG Hardening | DISA v2r6](https://github.com/k-isaacs/Windows11-STIG-Remediations)**  
-  Remediated 10 Windows 11 STIG controls on an Azure VM using PowerShell and registry-level changes. Each control includes the fix, implementation details, and before-and-after Tenable scan evidence.
-
----
-
-## 🔍 Security Projects
-
-- **[TOR Usage Threat Hunt | Microsoft Defender for Endpoint & KQL](https://github.com/k-isaacs/TOR-Browser-Threat-Hunt)**  
-  Conducted a threat hunt in Microsoft Defender for Endpoint using KQL to detect unauthorized TOR Browser installation and usage. Reviewed file, process, and network telemetry to identify TOR-related artifacts, silent installer execution, browser launch activity, and network connections over known TOR-associated ports.
-
----
-
-## 🤖 Agentic Vulnerability Management Projects
+  Automated remediation for **10 Windows 11 DISA STIG controls** on an Azure VM using PowerShell and registry-level changes. Each fix built through a repeatable validation workflow: baseline Tenable scan → manual remediation → revert-to-fail testing → scripted remediation → final rescan → documentation.
 
 - **[VM Risk Agent | Python + Anthropic API](https://github.com/k-isaacs/VM-Risk-Agent)**  
-  Built a Python-based vulnerability management agent that takes a Tenable scan and an analyst interview, then ranks findings by what the organization needs to fix first. The rubric weighs CVSS against data sensitivity, asset criticality, defense maturity, and regulatory pressure, producing different priority lists for different organizational profiles. Validated against four scenarios (hospital, SaaS startup, clinic, mom-and-pop tax/bookeeping shop) using the same scan.
+  Python-based vulnerability prioritization agent that parses a Tenable CSV, gathers analyst context through a structured interview, applies guardrails, and ranks findings by organizational risk. Scoring weighs CVSS, exploit availability, exposure, asset criticality, data sensitivity, defense maturity, and regulatory pressure. Claude generates plain-language rationale; the ranking itself is deterministic Python logic.
 
 ---
 
-## 🛠️ Technical Stack
+## 🔍 Detection & Investigation Support
 
-- **Cloud & Identity:** Microsoft Azure, Azure Virtual Machines, Entra ID  
-- **Vulnerability Management:** Tenable Nessus, DISA STIGs, Remediation Validation  
-- **Security Tooling:** Microsoft Defender for Endpoint, Microsoft Sentinel, KQL  
-- **Automation:** PowerShell, Python, Anthropic API 
+- **[TOR Usage Threat Hunt | Microsoft Defender for Endpoint & KQL](https://github.com/k-isaacs/TOR-Browser-Threat-Hunt)**  
+  Investigated simulated unauthorized TOR Browser usage with MDE and KQL. Correlated file, process, and network telemetry across `DeviceFileEvents`, `DeviceProcessEvents`, and `DeviceNetworkEvents` to confirm silent installer execution, browser launch activity, TOR artifacts, and outbound connections over known TOR-associated ports.
 
 ---
 
 ## 📫 Connect
 
-- [LinkedIn](YOUR-LINKEDIN-URL)
+- **Email:** keishaimail@gmail.com
+- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE) <!-- update this -->
